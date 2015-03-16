@@ -1,0 +1,1 @@
+A powerfull and quickly tool to generate dictionary for your own attack. Can be use in Linux and Windows after compile it with qt-libraries
